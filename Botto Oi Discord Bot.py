@@ -4,7 +4,7 @@ import random
 import time
 
 #Botto Oi Discord Bot.
-#By:  ViridianTelamon
+#By:  ViridianTelamon.
 
 client = discord.Client()
 
